@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/camera.h
+sys/types.h
+-
+
+../include/opencv.h
+opencv2/core.hpp
+-
+opencv2/imgproc.hpp
+-
+opencv2/highgui.hpp
+-
+
+/home/wdk/Projects/v4l2-opencv/src/main.cpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+malloc.h
+-
+time.h
+-
+camera.h
+/home/wdk/Projects/v4l2-opencv/src/camera.h
+opencv.h
+/home/wdk/Projects/v4l2-opencv/src/opencv.h
+

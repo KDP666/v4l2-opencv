@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/wdk/Projects/v4l2-opencv/build",
+  "command": "/usr/bin/c++ -Dv4l2_lib_EXPORTS -I/home/wdk/Projects/v4l2-opencv/include -fPIC -o CMakeFiles/v4l2_lib.dir/lib/camera.cpp.o -c /home/wdk/Projects/v4l2-opencv/lib/camera.cpp",
+  "file": "/home/wdk/Projects/v4l2-opencv/lib/camera.cpp"
+},
+{
+  "directory": "/home/wdk/Projects/v4l2-opencv/build",
+  "command": "/usr/bin/c++ -Dv4l2_lib_EXPORTS -I/home/wdk/Projects/v4l2-opencv/include -fPIC -o CMakeFiles/v4l2_lib.dir/lib/cv.cpp.o -c /home/wdk/Projects/v4l2-opencv/lib/cv.cpp",
+  "file": "/home/wdk/Projects/v4l2-opencv/lib/cv.cpp"
+},
+{
+  "directory": "/home/wdk/Projects/v4l2-opencv/build",
+  "command": "/usr/bin/c++  -I/home/wdk/Projects/v4l2-opencv/include  -o CMakeFiles/camera.dir/src/main.cpp.o -c /home/wdk/Projects/v4l2-opencv/src/main.cpp",
+  "file": "/home/wdk/Projects/v4l2-opencv/src/main.cpp"
+}
+]

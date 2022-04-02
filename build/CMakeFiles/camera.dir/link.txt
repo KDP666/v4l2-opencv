@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/camera.dir/src/main.cpp.o -o ../bin/camera  -Wl,-rpath,/home/wdk/Projects/v4l2-opencv/build libv4l2_lib.so -lopencv_core -lopencv_imgproc -lopencv_highgui 

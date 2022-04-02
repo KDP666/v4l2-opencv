@@ -1,0 +1,4 @@
+/home/wdk/Projects/v4l2-opencv/build/CMakeFiles/rebuild_cache.dir
+/home/wdk/Projects/v4l2-opencv/build/CMakeFiles/edit_cache.dir
+/home/wdk/Projects/v4l2-opencv/build/CMakeFiles/v4l2_lib.dir
+/home/wdk/Projects/v4l2-opencv/build/CMakeFiles/camera.dir
